@@ -1,4 +1,5 @@
 {
+    "name": "dataform-stripe",
     "dependencies": {
         "@dataform/core": "1.4.5"
     }
